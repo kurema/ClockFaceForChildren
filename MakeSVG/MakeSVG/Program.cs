@@ -35,7 +35,7 @@ namespace MakeSVG
                     {
                         var rgb = HsvToRgb((i + 11) % 12 / 12.0f, 1, 0.9f);
 
-                        var text = new SvgText(i + "じ")
+                        var text = new SvgText(i + "")
                         {
                             FontSize = fontSize,
                             FontWeight = SvgFontWeight.Bold,
@@ -138,7 +138,7 @@ namespace MakeSVG
                             FontSize = fonsSize,
                             FontWeight = SvgFontWeight.W900,
                             TextAnchor = SvgTextAnchor.Middle,
-                            Fill = new SvgColourServer(Color.FromArgb(0, 89, 255)),
+                            Fill = new SvgColourServer(Color.FromArgb(255, 0, 89)),
                             FontFamily = font,
                             X = new SvgUnitCollection()
                             {
@@ -170,7 +170,7 @@ namespace MakeSVG
                 doc.Children.Add(group2);
 
 
-                var red = new SvgColourServer(Color.FromArgb(210, 30, 41));
+                var red = new SvgColourServer(Color.FromArgb(30, 41, 210));
 
                 float rad = 175;
                 float radS = 5;
@@ -258,7 +258,7 @@ namespace MakeSVG
                         FontSize = fontSize,
                         FontWeight = SvgFontWeight.Bold,
                         TextAnchor = SvgTextAnchor.Middle,
-                        Fill = isx5? new SvgColourServer(Color.White):red,
+                        Fill = isx5 ? new SvgColourServer(Color.White) : red,
                         X = new SvgUnitCollection()
                             {
                                 new SvgUnit((rad+(radW)/2.0f)*sin),

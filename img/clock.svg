@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="400" height="400" viewBox="-200, -200, 400, 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1">
+  <g id="HourText">
+    <text x="70.71068" y="-70.71068" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#E50000;">1</text>
+    <text x="96.59258" y="-25.881907" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#E57200;">2</text>
+    <text x="96.59258" y="25.881905" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#E5E500;">3</text>
+    <text x="70.71068" y="70.71068" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#72E500;">4</text>
+    <text x="25.881893" y="96.59259" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#00E500;">5</text>
+    <text x="-25.881931" y="96.592575" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#00E572;">6</text>
+    <text x="-70.710686" y="70.71066" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#00E5E5;">7</text>
+    <text x="-96.59259" y="25.881899" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#0072E5;">8</text>
+    <text x="-96.59257" y="-25.881947" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#0000E5;">9</text>
+    <text x="-70.710655" y="-70.7107" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#7200E5;">10</text>
+    <text x="-25.881884" y="-96.59259" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#E500E5;">11</text>
+    <text x="25.881916" y="-96.59258" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="18" font-weight="700" dominant-baseline="middle" style="fill:#E50072;">12</text>
+  </g>
+  <g id="HourLine">
+    <circle r="120" stroke-width="0.5" fill-opacity="0" style="fill:transparent;stroke:black;" />
+    <line x1="0" y1="-120" x2="0" y2="-80" stroke-width="0.5" style="stroke:black;" />
+    <line x1="60" y1="-103.92305" x2="40" y2="-69.28203" stroke-width="0.5" style="stroke:black;" />
+    <line x1="103.92305" y1="-59.999996" x2="69.282036" y2="-39.999996" stroke-width="0.5" style="stroke:black;" />
+    <line x1="120" y1="5.2453665E-06" x2="80" y2="3.4969112E-06" stroke-width="0.5" style="stroke:black;" />
+    <line x1="103.92305" y1="60.000008" x2="69.28203" y2="40.000004" stroke-width="0.5" style="stroke:black;" />
+    <line x1="60.000008" y1="103.92305" x2="40.000004" y2="69.28203" stroke-width="0.5" style="stroke:black;" />
+    <line x1="-1.0490733E-05" y1="120" x2="-6.9938224E-06" y2="80" stroke-width="0.5" style="stroke:black;" />
+    <line x1="-60" y1="103.92305" x2="-40" y2="69.28203" stroke-width="0.5" style="stroke:black;" />
+    <line x1="-103.92305" y1="59.99999" x2="-69.282036" y2="39.999992" stroke-width="0.5" style="stroke:black;" />
+    <line x1="-120" y1="-1.4309857E-06" x2="-80" y2="-9.539905E-07" stroke-width="0.5" style="stroke:black;" />
+    <line x1="-103.92305" y1="-59.99999" x2="-69.282036" y2="-39.999992" stroke-width="0.5" style="stroke:black;" />
+    <line x1="-59.99997" y1="-103.923065" x2="-39.99998" y2="-69.28204" stroke-width="0.5" style="stroke:black;" />
+  </g>
+  <g id="CenterCircle">
+    <path d="M0 -80 A80 80 -0.5 0 1 40 -69.28203 L0 0 L0 -80" stroke-width="1" stroke-opacity="0" style="fill:#FF4CA5;stroke:transparent;" />
+    <path d="M40 -69.28203 A80 80 -0.41666666 0 1 69.282036 -39.999996 L0 0 L40 -69.28203" stroke-width="1" stroke-opacity="0" style="fill:#FF4C4C;stroke:transparent;" />
+    <path d="M69.282036 -39.999996 A80 80 -0.3333333 0 1 80 3.4969112E-06 L0 0 L69.282036 -39.999996" stroke-width="1" stroke-opacity="0" style="fill:#FFA54C;stroke:transparent;" />
+    <path d="M80 3.4969112E-06 A80 80 -0.25 0 1 69.28203 40.000004 L0 0 L80 3.4969112E-06" stroke-width="1" stroke-opacity="0" style="fill:#FFFF4C;stroke:transparent;" />
+    <path d="M69.28203 40.000004 A80 80 -0.16666666 0 1 40.000004 69.28203 L0 0 L69.28203 40.000004" stroke-width="1" stroke-opacity="0" style="fill:#A5FF4C;stroke:transparent;" />
+    <path d="M40.000004 69.28203 A80 80 -0.08333334 0 1 -6.9938224E-06 80 L0 0 L40.000004 69.28203" stroke-width="1" stroke-opacity="0" style="fill:#4CFF4C;stroke:transparent;" />
+    <path d="M-6.9938224E-06 80 A80 80 0 0 1 -40 69.28203 L0 0 L-6.9938224E-06 80" stroke-width="1" stroke-opacity="0" style="fill:#4CFFA5;stroke:transparent;" />
+    <path d="M-40 69.28203 A80 80 0.08333331 0 1 -69.282036 39.999992 L0 0 L-40 69.28203" stroke-width="1" stroke-opacity="0" style="fill:#4CFFFF;stroke:transparent;" />
+    <path d="M-69.282036 39.999992 A80 80 0.16666669 0 1 -80 -9.539905E-07 L0 0 L-69.282036 39.999992" stroke-width="1" stroke-opacity="0" style="fill:#4CA5FF;stroke:transparent;" />
+    <path d="M-80 -9.539905E-07 A80 80 0.25 0 1 -69.282036 -39.999992 L0 0 L-80 -9.539905E-07" stroke-width="1" stroke-opacity="0" style="fill:#4C4CFF;stroke:transparent;" />
+    <path d="M-69.282036 -39.999992 A80 80 0.3333333 0 1 -39.99998 -69.28204 L0 0 L-69.282036 -39.999992" stroke-width="1" stroke-opacity="0" style="fill:#A54CFF;stroke:transparent;" />
+    <path d="M-39.99998 -69.28204 A80 80 0.4166667 0 1 1.3987645E-05 -80 L0 0 L-39.99998 -69.28204" stroke-width="1" stroke-opacity="0" style="fill:#FF4CFF;stroke:transparent;" />
+  </g>
+  <g id="HourTextBig">
+    <text x="72.5" y="-125.573685" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">1</text>
+    <text x="125.57369" y="-72.49999" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">2</text>
+    <text x="145" y="6.3381513E-06" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">3</text>
+    <text x="125.573685" y="72.50001" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">4</text>
+    <text x="72.50001" y="125.573685" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">5</text>
+    <text x="-1.26763025E-05" y="145" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">6</text>
+    <text x="-72.5" y="125.573685" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">7</text>
+    <text x="-125.57369" y="72.499985" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">8</text>
+    <text x="-145" y="-1.7291077E-06" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">9</text>
+    <text x="-125.57369" y="-72.499985" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">10</text>
+    <text x="-72.49996" y="-125.57371" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">11</text>
+    <text x="2.5352605E-05" y="-145" text-anchor="middle" font-family="UD デジタル 教科書体 NP-B" font-size="40" font-weight="900" dominant-baseline="middle" style="fill:#FF0059;">12</text>
+  </g>
+  <g id="SecLine">
+    <circle r="175" stroke-width="1" fill-opacity="0" style="fill:transparent;stroke:#1E29D2;" />
+    <circle r="190" stroke-width="1" fill-opacity="0" style="fill:transparent;stroke:#1E29D2;" />
+    <path d="M-7.32824 -174.8465 A175 175 -0.50666666 0 1 7.32824 -174.8465 L7.9563746 -189.83334 A175 175 0.49333334 0 1 -7.9563746 -189.83334 L-7.32824 -174.8465" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="0" y1="-170" x2="0" y2="-175" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="17.76984" y1="-169.06873" x2="18.292482" y2="-174.04134" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="35.34499" y1="-166.2851" x2="36.384552" y2="-171.17583" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="52.53289" y1="-161.67961" x2="54.077976" y2="-166.43489" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="69.14523" y1="-155.30272" x2="71.17892" y2="-159.87045" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M81.07681 -155.08563 A175 175 -0.42333335 0 1 93.7697 -147.75739 L101.807106 -160.4223 A175 175 0.57666665 0 1 88.02625 -168.37868 L81.07681 -155.08563" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="85" y1="-147.22432" x2="87.5" y2="-151.55444" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="99.92349" y1="-137.5329" x2="102.86242" y2="-141.57797" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="113.752205" y1="-126.33462" x2="117.09786" y2="-130.05034" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="126.334625" y1="-113.7522" x2="130.05035" y2="-117.09785" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="137.5329" y1="-99.923485" x2="141.57799" y2="-102.862404" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M147.75739 -93.76968 A175 175 -0.33999997 0 1 155.08563 -81.076805 L168.37868 -88.026245 A175 175 0.66 0 1 160.4223 -101.80708 L147.75739 -93.76968" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="147.22432" y1="-84.99999" x2="151.55446" y2="-87.49999" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="155.30273" y1="-69.145226" x2="159.87047" y2="-71.17891" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="161.67961" y1="-52.532887" x2="166.43489" y2="-54.07797" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="166.2851" y1="-35.344982" x2="171.17583" y2="-36.38454" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="169.06873" y1="-17.76983" x2="174.04134" y2="-18.292473" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M174.8465 -7.3282275 A175 175 -0.25666666 0 1 174.8465 7.3282433 L189.83334 7.9563785 A175 175 0.74333334 0 1 189.83334 -7.9563613 L174.8465 -7.3282275" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="170" y1="7.430936E-06" x2="175" y2="7.6494925E-06" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="169.06871" y1="17.769867" x2="174.04132" y2="18.29251" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="166.28508" y1="35.344997" x2="171.17583" y2="36.384556" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="161.6796" y1="52.532917" x2="166.43489" y2="54.078003" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="155.30272" y1="69.14524" x2="159.87045" y2="71.178925" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M155.0856 81.076836 A175 175 -0.17333332 0 1 147.75737 93.769714 L160.4223 101.80711 A175 175 0.8266667 0 1 168.37866 88.026276 L155.0856 81.076836" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="147.22432" y1="85.00001" x2="151.55444" y2="87.50001" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="137.5329" y1="99.923485" x2="141.57797" y2="102.862404" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="126.33462" y1="113.75221" x2="130.05034" y2="117.09787" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="113.752205" y1="126.33462" x2="117.09786" y2="130.05034" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="99.923485" y1="137.5329" x2="102.862404" y2="141.57799" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M93.76968 147.7574 A175 175 -0.09 0 1 81.0768 155.08563 L88.02624 168.37868 A175 175 0.90999997 0 1 101.80708 160.42232 L93.76968 147.7574" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="85.00001" y1="147.22432" x2="87.50001" y2="151.55444" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="69.14522" y1="155.30273" x2="71.1789" y2="159.87047" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="52.532894" y1="161.6796" x2="54.07798" y2="166.43489" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="35.344975" y1="166.2851" x2="36.384533" y2="171.17583" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="17.769844" y1="169.06873" x2="18.292486" y2="174.04134" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M7.3281994 174.8465 A175 175 -0.0066666603 0 1 -7.32823 174.8465 L-7.956364 189.83334 A175 175 0.99333334 0 1 7.956331 189.83334 L7.3281994 174.8465" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="-1.4861872E-05" y1="170" x2="-1.5298985E-05" y2="175" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-17.769835" y1="169.06873" x2="-18.292477" y2="174.04134" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-35.345043" y1="166.28508" x2="-36.3846" y2="171.17581" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-52.532925" y1="161.6796" x2="-54.07801" y2="166.43488" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-69.14524" y1="155.30272" x2="-71.178925" y2="159.87045" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M-81.07683 155.08562 A175 175 0.07666665 0 1 -93.76973 147.75735 L-101.80714 160.42227 A175 175 1.0766666 0 1 -88.02627 168.37868 L-81.07683 155.08562" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="-85" y1="147.22432" x2="-87.5" y2="151.55444" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-99.923546" y1="137.53285" x2="-102.86247" y2="141.57793" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-113.752235" y1="126.334595" x2="-117.09789" y2="130.05032" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-126.334625" y1="113.75218" x2="-130.05035" y2="117.09784" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-137.53287" y1="99.92352" x2="-141.57794" y2="102.86245" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M-147.75737 93.76972 A175 175 0.15999997 0 1 -155.08563 81.07681 L-168.37868 88.02625 A175 175 1.16 0 1 -160.42229 101.80713 L-147.75737 93.76972" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="-147.22432" y1="84.999985" x2="-151.55446" y2="87.499985" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-155.30272" y1="69.145226" x2="-159.87045" y2="71.17891" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-161.6796" y1="52.532906" x2="-166.43489" y2="54.07799" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-166.28508" y1="35.345028" x2="-171.17583" y2="36.384586" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-169.06873" y1="17.769817" x2="-174.04134" y2="18.29246" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M-174.8465 7.328296 A175 175 0.24333328 0 1 -174.8465 -7.3283 L-189.83333 -7.95644 A175 175 1.2433333 0 1 -189.83333 7.9564357 L-174.8465 7.328296" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="-170" y1="-2.0272298E-06" x2="-175" y2="-2.086854E-06" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-169.06873" y1="-17.769821" x2="-174.04134" y2="-18.292463" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-166.28508" y1="-35.345028" x2="-171.17583" y2="-36.38459" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-161.6796" y1="-52.53291" x2="-166.43489" y2="-54.077995" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-155.30272" y1="-69.14523" x2="-159.87045" y2="-71.17892" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M-155.08562 -81.07681 A175 175 0.32666665 0 1 -147.75737 -93.76972 L-160.42229 -101.80713 A175 175 1.3266666 0 1 -168.37868 -88.02625 L-155.08562 -81.07681" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="-147.22432" y1="-84.999985" x2="-151.55446" y2="-87.499985" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-137.53287" y1="-99.92353" x2="-141.57794" y2="-102.86246" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-126.33461" y1="-113.75223" x2="-130.05034" y2="-117.09788" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-113.7522" y1="-126.334625" x2="-117.09785" y2="-130.05035" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-99.9235" y1="-137.53288" x2="-102.86243" y2="-141.57797" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <path d="M-93.7697 -147.75737 A175 175 0.40999997 0 1 -81.07678 -155.08563 L-88.02622 -168.3787 A175 175 1.41 0 1 -101.807106 -160.4223 L-93.7697 -147.75737" stroke-width="1" stroke-opacity="0" style="fill:#1E29D2;stroke:transparent;" />
+    <line x1="-84.99996" y1="-147.22435" x2="-87.49996" y2="-151.55447" stroke-width="3" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-69.1452" y1="-155.30275" x2="-71.17889" y2="-159.87047" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-52.53288" y1="-161.67961" x2="-54.077965" y2="-166.43489" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-35.344997" y1="-166.28508" x2="-36.38456" y2="-171.17583" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+    <line x1="-17.769789" y1="-169.06873" x2="-18.29243" y2="-174.04134" stroke-width="1" stroke-linecap="round" style="stroke:#1E29D2;" />
+  </g>
+  <g id="SecText">
+    <text x="0" y="-182.5" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">0</text>
+    <text x="19.076447" y="-181.50024" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">1</text>
+    <text x="37.94389" y="-178.51195" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">2</text>
+    <text x="56.395603" y="-173.56783" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">3</text>
+    <text x="74.22945" y="-166.72205" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">4</text>
+    <text x="91.25" y="-158.04964" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">5</text>
+    <text x="107.270805" y="-147.6456" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">6</text>
+    <text x="122.11634" y="-135.62393" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">7</text>
+    <text x="135.62393" y="-122.116325" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">8</text>
+    <text x="147.64561" y="-107.2708" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">9</text>
+    <text x="158.04964" y="-91.24999" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">10</text>
+    <text x="166.72205" y="-74.22943" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">11</text>
+    <text x="173.56783" y="-56.3956" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">12</text>
+    <text x="178.51195" y="-37.94388" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">13</text>
+    <text x="181.50024" y="-19.076437" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">14</text>
+    <text x="182.5" y="7.977328E-06" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">15</text>
+    <text x="181.50024" y="19.076475" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">16</text>
+    <text x="178.51193" y="37.943893" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">17</text>
+    <text x="173.56781" y="56.39563" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">18</text>
+    <text x="166.72205" y="74.22945" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">19</text>
+    <text x="158.04964" y="91.25001" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">20</text>
+    <text x="147.6456" y="107.2708" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">21</text>
+    <text x="135.62393" y="122.11635" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">22</text>
+    <text x="122.11634" y="135.62393" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">23</text>
+    <text x="107.2708" y="147.64561" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">24</text>
+    <text x="91.25001" y="158.04964" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">25</text>
+    <text x="74.22942" y="166.72205" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">26</text>
+    <text x="56.395607" y="173.56781" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">27</text>
+    <text x="37.94387" y="178.51195" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">28</text>
+    <text x="19.07645" y="181.50024" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">29</text>
+    <text x="-1.5954656E-05" y="182.5" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">30</text>
+    <text x="-19.076439" y="181.50024" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">31</text>
+    <text x="-37.943943" y="178.51192" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">32</text>
+    <text x="-56.39564" y="173.5678" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">33</text>
+    <text x="-74.229454" y="166.72205" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">34</text>
+    <text x="-91.25" y="158.04964" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">35</text>
+    <text x="-107.27086" y="147.64555" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">36</text>
+    <text x="-122.11637" y="135.6239" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">37</text>
+    <text x="-135.62393" y="122.11632" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">38</text>
+    <text x="-147.64557" y="107.270836" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">39</text>
+    <text x="-158.04964" y="91.249985" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">40</text>
+    <text x="-166.72205" y="74.22944" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">41</text>
+    <text x="-173.56781" y="56.39562" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">42</text>
+    <text x="-178.51193" y="37.943928" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">43</text>
+    <text x="-181.50024" y="19.076422" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">44</text>
+    <text x="-182.5" y="-2.1762908E-06" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">45</text>
+    <text x="-181.50024" y="-19.076426" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">46</text>
+    <text x="-178.51193" y="-37.943928" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">47</text>
+    <text x="-173.56781" y="-56.395626" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">48</text>
+    <text x="-166.72205" y="-74.22945" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">49</text>
+    <text x="-158.04964" y="-91.249985" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">50</text>
+    <text x="-147.64557" y="-107.27085" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">51</text>
+    <text x="-135.62392" y="-122.11636" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">52</text>
+    <text x="-122.116325" y="-135.62393" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">53</text>
+    <text x="-107.27082" y="-147.6456" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">54</text>
+    <text x="-91.249954" y="-158.04967" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:white;">55</text>
+    <text x="-74.22941" y="-166.72206" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">56</text>
+    <text x="-56.39559" y="-173.56783" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">57</text>
+    <text x="-37.943897" y="-178.51193" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">58</text>
+    <text x="-19.076391" y="-181.50024" text-anchor="middle" font-size="10" font-weight="700" dominant-baseline="middle" style="fill:#1E29D2;">59</text>
+  </g>
+</svg>
