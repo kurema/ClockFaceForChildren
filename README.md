@@ -1,5 +1,5 @@
 # ClockFaceForChildren
-Teaching children how to read a clock.
+Teaching children how to read a clock. [SVG](img/clock.svg), [PDF](img/clock.pdf), [PNG](img/clock.png).
 
 ![img](img/clock.svg)
 
